@@ -3,7 +3,6 @@ package ATM.MACHINE;
 import ATM.MACHINE.Exceptions.InvalidAmountException;
 import ATM.MACHINE.Exceptions.InvalidAtmNumberException;
 import ATM.MACHINE.Exceptions.InvalidPinException;
-import java.math.BigInteger;
 import java.util.Scanner;
 
 public class Main {
