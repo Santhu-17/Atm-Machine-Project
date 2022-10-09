@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Main {
     static final String atmNumber = "9398049275";
-    static  int pin = 1702;
+    static final int pin = 1702;
 
     static AtmOperationImplementation atm = new AtmOperationImplementation();
     static Scanner s = new Scanner(System.in);
